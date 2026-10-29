@@ -7,3 +7,4 @@
 - 记录代码
 - 管理笔记
 - 备份 DeepSeek 相关的个人项目
+- 通过 GitHub Desktop 学习图形界面操作
